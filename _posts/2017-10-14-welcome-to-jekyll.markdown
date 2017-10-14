@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "narxil sbarca su jekyll!"
 date:   2017-10-14 11:03:13 +0200
 categories: jekyll update
 ---
